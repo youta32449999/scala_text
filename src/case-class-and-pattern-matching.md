@@ -45,6 +45,7 @@ x match {
   case Wednesday => 4
   case Thursday => 5
   case Friday => 6
+  case Saturday => 7
 }
 ```
 
